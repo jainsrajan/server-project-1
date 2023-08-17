@@ -2,7 +2,7 @@
 const User = require('../models/models.js')
 
 exports.home = (req , res) => {
-    res.send("srajan jain");
+    res.send("jain-srajan");
 }
 
 exports.createUser= async(req , res)=>{
